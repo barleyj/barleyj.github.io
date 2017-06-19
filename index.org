@@ -1,6 +1,9 @@
+#+TITLE: Random thoughts
 #+SETUPFILE: theme-readtheorg.setup
 
 I believe in challenging the status quo, and this is where I'll be blogging some of those thoughts. 
+
+* Jayson's Blog
 
 #+BEGIN_HTML
 <script id="dsq-count-scr" src="//barleyj.disqus.com/count.js" async></script>
